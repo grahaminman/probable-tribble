@@ -42,7 +42,7 @@ body{
 
 /* Header */
 .header{
-  background: linear-gradient(90deg, var(--blue), var(--green));
+  background: linear-gradient(90deg, var(--blue), var(--red));
   color: var(--white);
   padding: 1.25rem 1.5rem;
   border-radius: calc(var(--radius) + 4px);
