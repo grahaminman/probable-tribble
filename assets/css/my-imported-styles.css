@@ -1,6 +1,6 @@
 /* my-imported-styles.css
    Additional styles for the Probable Tribble website
 */
-#testis {
+#testis.footer {
     font-weight: bold;
 }

@@ -1,6 +1,7 @@
 /* styles.css
     Basic red / white / blue page theme
 */
+@import "my-imported-styles.css";
 
 :root{
   --red: #b22234;
@@ -202,4 +203,4 @@ input:focus, textarea:focus, select:focus{
   .nav{display:none}
   body{padding:1rem}
 }
-@import "my-imported-styles.css";
+
