@@ -2,5 +2,5 @@
    Additional styles for the Probable Tribble website
 */
 body {
-  background-color: #75aec1;
+  background-color: var(--red);
 }
