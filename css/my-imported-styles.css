@@ -1,4 +1,6 @@
-/* my-imported-styles.css */
-:root {
-  --primary-bg-color: green; /* global scope */
+/* my-imported-styles.css
+   Additional styles for the Probable Tribble website
+*/
+body {
+  background-color: #75aec1;
 }
