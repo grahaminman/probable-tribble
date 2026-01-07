@@ -1,7 +1,7 @@
 /* styles.css
     Basic red / white / blue page theme
 */
-@import "my-imported-styles.css";
+@import url("my-imported-styles.css");
 
 :root{
   --red: #b22234;
