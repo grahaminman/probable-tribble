@@ -1,6 +1,7 @@
 /* styles.css
     Basic red / white / blue page theme
 */
+@import "my-imported-styles.css";
 
 :root{
   --red: #b22234;
@@ -41,7 +42,7 @@ body{
 
 /* Header */
 .header{
-  background: linear-gradient(90deg, var(--blue), var(--red));
+  background: linear-gradient(90deg, var(--blue), var(--green));
   color: var(--white);
   padding: 1.25rem 1.5rem;
   border-radius: calc(var(--radius) + 4px);
