@@ -1,1 +1,4 @@
 /* my-imported-styles.css */
+:root {
+  --primary-bg-color: green; /* global scope */
+}
